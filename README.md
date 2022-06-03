@@ -30,15 +30,21 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[https://imgur.com/a/xTuwSR0](https://imgur.com/9rXDvE3)
+https://imgur.com/a/xTuwSR0
 
 <img src='https://imgur.com/a/xTuwSR0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+![Flixster](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+GIF created with [Imgur](https://imgur.com/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Problems with Android Studio itself
+- Code organization (I wish I included more comments) 
+- Making time to implement stretch features
 
 ## Open-source libraries used
 
