@@ -34,8 +34,6 @@ https://imgur.com/a/xTuwSR0
 
 <img src='https://imgur.com/a/xTuwSR0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Flixster](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 GIF created with [Imgur](https://imgur.com/).
 
 ## Notes
